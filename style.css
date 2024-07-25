@@ -1,0 +1,69 @@
+.form-label {
+    margin-left: 5px;
+    font-weight: bold;
+  }
+  #validationServer01 {
+  
+      margin-left: 100px;
+  }
+  #validationServer02 {
+      margin-left: 100px;
+  }
+  #inputPassword5 {
+      margin-left: 100px;
+  }
+  #validationServerUsername {
+      margin-left: 100px;
+  }
+  #passwordHelpBlock{
+  
+      margin-left: 100px;
+  
+  }
+  #invalidCheck3 {
+      margin-left: 5px;
+  } 
+  h3 {
+      margin-left: 5px;
+  }
+  #invalidCheck3Feedback{
+      margin-left: 5px;
+  
+  }
+  .col-12 {
+      margin-left: 5px;
+  } 
+  form{
+    width: 500px;
+    border: 2px solid color #ccc;
+    padding: 30px;
+    background-color: #fffeff;
+    border-radius: 20px;
+    margin: auto;
+  
+  }
+  button{
+      color: rgb(0, 0, 0);
+      border:  3px solid;
+      background-color: #fff;
+      border-radius: 5px;
+      
+  }
+  #validationServerUsername {
+      margin-right: auto;
+  }
+  .form-label {
+      margin-top: 10px;
+  }
+  p{
+  font-family: cursive;
+  
+  
+  margin-right: 100px;
+  
+  }
+  form{
+      margin-top: 150px;
+  }
+  
+  

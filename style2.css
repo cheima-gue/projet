@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 400px;
+}
+button {
+    font-size: larger;
+    color: black;
+    
+}
+#cs3{
+    color: red;
+}
